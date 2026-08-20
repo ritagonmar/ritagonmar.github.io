@@ -6,8 +6,7 @@
 
 # Get in touch
 
-I'm happy to hear about ML engineer / applied scientist opportunities, collaborations, or just
-to chat about dimensionality reduction and data visualization.
+I'm happy to hear about ML engineer / applied scientist opportunities, collaborations, or just to chat about representation learning and data visualization.
 
 <div class="grid">
   <div class="card">

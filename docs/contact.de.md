@@ -6,8 +6,7 @@
 
 # Kontakt aufnehmen
 
-Ich freue mich über Anfragen zu Möglichkeiten als ML Engineer / Applied Scientist, über
-Kooperationen, oder einfach über einen Austausch zu Dimensionsreduktion und Datenvisualisierung.
+Ich freue mich über Anfragen zu Möglichkeiten als ML Engineer / Applied Scientist, über Kooperationen, oder einfach über einen Austausch zu Representation Learning und Datenvisualisierung.
 
 <div class="grid">
   <div class="card">

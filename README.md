@@ -29,8 +29,8 @@ before the first deploy.
 
 ## TODO before publishing
 
-- [ ] in contact change exchange over ...
+- [x] in contact change exchange over ...
 - [ ] Where to add teaching and supervision?
 - [ ] Add your CV PDF at `docs/files/CV_Rita_Gonzalez_Marquez.pdf` (see `docs/files/README.txt`).
-- [ ] Update `site_url` and the `social` links in `mkdocs.yml`.
+- [x] Update `site_url` and the `social` links in `mkdocs.yml`.
 - [ ] Double-check the German translations.
