@@ -1,0 +1,76 @@
+site_name: Rita González Márquez
+site_description: Personal website of Rita González Márquez — ML PhD candidate
+site_url: https://ritagonmar.github.io/
+
+theme:
+  name: material
+  logo: images/logo.svg
+  favicon: images/favicon.svg
+  font: false
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  robots: robots.txt
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ritagonmar
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ritagonmar/
+      name: LinkedIn
+    - icon: fontawesome/solid/graduation-cap
+      link: https://scholar.google.com/citations?user=RAfipNgAAAAJ&hl=es&oi=ao
+      name: Google Scholar
+    - icon: fontawesome/solid/envelope
+      link: mailto:ritagonzalez97@gmail.com
+      name: Email
+
+plugins:
+  - search
+  - i18n:
+      languages:
+        - locale: en
+          name: English
+          build: true
+          default: true
+        - locale: de
+          name: Deutsch
+          build: true
+          nav_translations:
+            Home: Startseite
+            About: Über mich
+            Publications: Publikationen
+            Projects: Projekte
+            CV: Lebenslauf
+            Contact: Kontakt
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Publications: publications.md
+  - Projects: projects.md
+  - CV: cv.md
+  - Contact: contact.md
