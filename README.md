@@ -26,11 +26,3 @@ before the first deploy.
 - `docs/images/header.jpeg` — generated placeholder banner (node/edge motif) used at the top of
   every non-home page. `docs/images/logo.svg` / `favicon.svg` — "RG" monogram.
 - `docs/images/profile.svg` — placeholder avatar on the home page.
-
-## TODO before publishing
-
-- [x] in contact change exchange over ...
-- [ ] Where to add teaching and supervision?
-- [ ] Add your CV PDF at `docs/files/CV_Rita_Gonzalez_Marquez.pdf` (see `docs/files/README.txt`).
-- [x] Update `site_url` and the `social` links in `mkdocs.yml`.
-- [ ] Double-check the German translations.

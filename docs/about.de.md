@@ -50,7 +50,7 @@ Ich bin derzeit auf Jobsuche nach Stellen als **Machine Learning Engineer / Appl
 <div class="grid">
   <div class="card">
     <h3>Machine Learning</h3>
-    <div class="tags">NLP · LLMs · Agenten · Text Embeddings · RAG-Systeme · Retrieval · Self-supervised Lernen · Kontrastives Lernen · Neighbor Embedding · Visualisierungsmethoden</div>
+    <div class="tags">NLP · LLMs · KI-Agenten · Text Embeddings · RAG-Systeme · Retrieval · Self-supervised Lernen · Contrastive Learning · Neighbor Embedding · Visualisierungsmethoden</div>
   </div>
   <div class="card">
     <h3>Technische Fähigkeiten</h3>

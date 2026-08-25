@@ -7,7 +7,7 @@
 # Curriculum Vitae
 
 <p>
-  <a class="btn btn-accent" href="../files/CV_Rita_Gonzalez_Marquez.pdf">Download PDF</a>
+  <a class="btn btn-accent" href="../files/CV_en_Rita_Gonzalez_Marquez.pdf">Download PDF</a>
 </p>
 
 <!-- TODO: add your CV PDF at docs/files/CV_Rita_Gonzalez_Marquez.pdf and update the link above.

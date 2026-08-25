@@ -14,6 +14,16 @@
     <div class="tags">Python · BERT-Embeddings · t-SNE</div>
     <p><a href="https://github.com/berenslab/pubmed-landscape">Auf GitHub ansehen →</a></p>
     <p><a href="https://static.nomic.ai/pubmed.html">Interaktive Visualisierung →</a></p>
+    <p><a href="https://www.machinelearningforscience.de/20-millionen-paper-gleichzeitig-durchforsten/">Blogpost →</a></p>
+  </div>
+    <div class="card">
+    <h3>Excess Vocabulary durch LLMs</h3>
+    <p>Erkennt die Spuren von LLM-unterstütztem Schreiben in über 15 Mio. biomedizinischen
+    Abstracts, indem Verschiebungen im Wortgebrauch über die Zeit nachverfolgt werden.</p>
+    <div class="tags">Python · NLP · Großskalige Textanalyse</div>
+    <p><a href="https://github.com/berenslab/llm-excess-vocab">Auf GitHub ansehen →</a></p>
+    <p><a href="https://epaper.zeit.de/webreader-v3/index.html#/949331/35">Presseberichterstattung Die Zeit →</a></p>
+    <p><a href="https://www.economist.com/science-and-technology/2024/06/26/at-least-10-of-research-may-already-be-co-authored-by-ai">Presseberichterstattung The Economist →</a></p>
   </div>
   <div class="card">
     <h3>Text-Visualisierungen</h3>
@@ -44,13 +54,7 @@
 
 
 
-  <div class="card">
-    <h3>Wortschatzüberschuss durch LLMs</h3>
-    <p>Erkennt die Spuren von LLM-unterstütztem Schreiben in über 15 Mio. biomedizinischen
-    Abstracts, indem Verschiebungen im Wortgebrauch über die Zeit nachverfolgt werden.</p>
-    <div class="tags">Python · NLP · Großskalige Textanalyse</div>
-    <p><a href="https://github.com/berenslab/llm-excess-vocab">Auf GitHub ansehen →</a></p>
-  </div>
+
 
 
   <div class="card">

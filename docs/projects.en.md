@@ -14,6 +14,16 @@
     <div class="tags">Python · BERT embeddings · t-SNE</div>
     <p><a href="https://github.com/berenslab/pubmed-landscape">View on GitHub →</a></p>
     <p><a href="https://static.nomic.ai/pubmed.html">Interactive visualization →</a></p>
+    <p><a href="https://www.machinelearningforscience.de/en/navigating-20-million-papers-at-once-to-uncover-knowledge/">Blogpost →</a></p>
+  </div>
+    <div class="card">
+    <h3>LLM Excess Vocabulary</h3>
+    <p>Detecting the fingerprints of LLM-assisted writing across 15M+ biomedical abstracts by
+    tracking shifts in word usage over time.</p>
+    <div class="tags">Python · NLP · Large-scale text analysis</div>
+    <p><a href="https://github.com/berenslab/llm-excess-vocab">View on GitHub →</a></p>
+    <p><a href="https://www.economist.com/science-and-technology/2024/06/26/at-least-10-of-research-may-already-be-co-authored-by-ai">Cover by The Economist →</a></p>
+    <p><a href="https://epaper.zeit.de/webreader-v3/index.html#/949331/35">Cover by Die Zeit →</a></p>
   </div>
   <div class="card">
     <h3>Text Visualizations</h3>
@@ -38,17 +48,6 @@
     published between 2010 and 2025.</p>
     <div class="tags">Python · NLP · LLMs</div>
     <p><a href="https://github.com/ritagonmar/llm-readability">View on GitHub →</a></p>
-  </div>
-
-
-
-
-  <div class="card">
-    <h3>LLM Excess Vocabulary</h3>
-    <p>Detecting the fingerprints of LLM-assisted writing across 15M+ biomedical abstracts by
-    tracking shifts in word usage over time.</p>
-    <div class="tags">Python · NLP · Large-scale text analysis</div>
-    <p><a href="https://github.com/berenslab/llm-excess-vocab">View on GitHub →</a></p>
   </div>
 
 

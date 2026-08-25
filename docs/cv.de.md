@@ -7,7 +7,7 @@
 # Lebenslauf
 
 <p>
-  <a class="btn btn-accent" href="../../files/CV_Rita_Gonzalez_Marquez.pdf">PDF herunterladen</a>
+  <a class="btn btn-accent" href="../../files/CV_de_Rita_Gonzalez_Marquez.pdf">PDF herunterladen</a>
 </p>
 
 <!-- TODO: add your CV PDF at docs/files/CV_Rita_Gonzalez_Marquez.pdf and update the link above.
