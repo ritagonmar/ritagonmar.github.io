@@ -1,0 +1,282 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap");
+
+/* ---------- Fonts ---------- */
+:root {
+  --md-text-font-family: "Inter", "Segoe UI", Helvetica, Arial, sans-serif;
+  --md-heading-font-family: "Inter", "Segoe UI", Helvetica, Arial, sans-serif;
+  --md-code-font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+}
+
+.md-typeset {
+  font-family: "Inter", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.md-typeset code,
+.md-typeset pre {
+  font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+}
+
+.md-typeset h1 {
+  font-size: 2.1rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.md-typeset h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+/* Hide the artificial top title on pages that render their own <h1> */
+.md-typeset h1.page-title {
+  display: none;
+}
+
+/* ---------- Color scheme: light (default, custom) ---------- */
+[data-md-color-scheme="custom"] {
+  /* Backgrounds */
+  --md-default-bg-color: #f7f9fb;
+  --md-default-bg-color--light: #ffffff;
+  --md-default-fg-color: #1b2430;
+  --md-default-fg-color--light: #52606d;
+  --md-default-fg-color--lighter: #8494a6;
+
+  /* Primary (nav, header) */
+  --md-primary-fg-color: #16324f;
+  --md-primary-fg-color--dark: #0e2138;
+  --md-primary-fg-color--light: #2c4a6e;
+  --md-primary-bg-color: #ffffff;
+
+  /* Accent (links, hover states) */
+  --md-accent-fg-color: #0f8f7e;
+  --md-accent-fg-color--transparent: rgba(15, 143, 126, 0.1);
+
+  --md-surface-border-color: #dbe2ea;
+}
+
+[data-md-color-scheme="custom"] .md-typeset h1,
+[data-md-color-scheme="custom"] .md-typeset h2,
+[data-md-color-scheme="custom"] .md-typeset h3 {
+  color: #16324f;
+}
+
+[data-md-color-scheme="custom"] .md-typeset a {
+  color: #0f8f7e;
+}
+
+[data-md-color-scheme="custom"] .md-typeset a:hover {
+  color: #16324f;
+}
+
+[data-md-color-scheme="custom"] .md-typeset hr {
+  border-color: #dbe2ea;
+}
+
+/* ---------- Color scheme: dark (slate, retuned to match) ---------- */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #10161f;
+  --md-default-bg-color--light: #182231;
+  --md-default-fg-color: #dbe4ee;
+  --md-default-fg-color--light: #96a5b8;
+  --md-default-fg-color--lighter: #64748b;
+
+  --md-primary-fg-color: #16324f;
+  --md-primary-fg-color--dark: #0e2138;
+  --md-primary-fg-color--light: #2c4a6e;
+  --md-primary-bg-color: #eef2f6;
+
+  --md-accent-fg-color: #35c2ae;
+  --md-accent-fg-color--transparent: rgba(53, 194, 174, 0.12);
+
+  --md-surface-border-color: #253247;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3 {
+  color: #eef2f6;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a {
+  color: #35c2ae;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+  color: #7fd9cb;
+}
+
+/* ---------- Header banner (non-home pages) ---------- */
+.page-header-banner {
+  margin: 0 0 1.5rem 0;
+}
+
+.page-header-banner img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 220px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* ---------- Home page hero ---------- */
+.hero {
+  text-align: center;
+  padding: 1rem 0 2rem 0;
+}
+
+.hero-avatar {
+  width: 260px;
+  height: 260px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 1.25rem auto;
+  display: block;
+  border: 3px solid var(--md-primary-fg-color);
+}
+
+.hero-name {
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.35rem;
+}
+
+.hero-tagline {
+  font-size: 1.1rem;
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 1.5rem;
+}
+
+.hero-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+/* ---------- Buttons ---------- */
+.btn {
+  display: inline-block;
+  padding: 0.55rem 1.2rem;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none !important;
+  border: 1.5px solid var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color) !important;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.btn:hover {
+  background-color: var(--md-accent-fg-color);
+  color: #ffffff !important;
+}
+
+.btn-accent {
+  background-color: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+  color: #ffffff !important;
+}
+
+.btn-accent:hover {
+  background-color: var(--md-primary-fg-color);
+  border-color: var(--md-primary-fg-color);
+  color: #ffffff !important;
+}
+
+/* ---------- Card grid (skills / projects) ---------- */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.card {
+  background: var(--md-default-bg-color--light);
+  border: 1px solid var(--md-surface-border-color);
+  border-radius: 10px;
+  padding: 1.1rem 1.3rem;
+}
+
+.card h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+.card p {
+  margin: 0.3rem 0;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.92rem;
+}
+
+.card .tags {
+  margin-top: 0.6rem;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.78rem;
+  color: var(--md-accent-fg-color);
+}
+
+/* ---------- Collapsible sections (e.g. publication abstracts) ---------- */
+details {
+  background: var(--md-default-bg-color--light);
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+  margin: 1rem 0;
+  border: 1px solid var(--md-surface-border-color);
+}
+
+details > summary {
+  font-weight: 600;
+  cursor: pointer;
+  list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > summary::after {
+  content: "▾";
+  float: right;
+}
+
+details[open] > summary::after {
+  content: "▴";
+}
+
+/* ---------- Publication entries ---------- */
+.pub {
+  margin: 1.5rem 0;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--md-surface-border-color);
+}
+
+.pub:last-of-type {
+  border-bottom: none;
+}
+
+.pub-title {
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin-bottom: 0.2rem;
+}
+
+.pub-meta {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.9rem;
+  margin-bottom: 0.4rem;
+}
+
+.pub-links a {
+  margin-right: 0.9rem;
+  font-size: 0.88rem;
+}

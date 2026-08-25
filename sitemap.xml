@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://ritagonmar.github.io/about/</loc>
+        <lastmod>2026-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ritagonmar.github.io/about/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ritagonmar.github.io/de/about/"/>
+    </url>
+    <url>
+        <loc>https://ritagonmar.github.io/contact/</loc>
+        <lastmod>2026-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ritagonmar.github.io/contact/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ritagonmar.github.io/de/contact/"/>
+    </url>
+    <url>
+        <loc>https://ritagonmar.github.io/cv/</loc>
+        <lastmod>2026-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ritagonmar.github.io/cv/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ritagonmar.github.io/de/cv/"/>
+    </url>
+    <url>
+        <loc>https://ritagonmar.github.io/</loc>
+        <lastmod>2026-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ritagonmar.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ritagonmar.github.io/de/"/>
+    </url>
+    <url>
+        <loc>https://ritagonmar.github.io/projects/</loc>
+        <lastmod>2026-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ritagonmar.github.io/projects/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ritagonmar.github.io/de/projects/"/>
+    </url>
+    <url>
+        <loc>https://ritagonmar.github.io/publications/</loc>
+        <lastmod>2026-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ritagonmar.github.io/publications/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ritagonmar.github.io/de/publications/"/>
+    </url>
+    <url>
+        <loc>https://ritagonmar.github.io/de/about/</loc>
+        <lastmod>2026-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ritagonmar.github.io/de/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ritagonmar.github.io/about/"/>
+    </url>
+    <url>
+        <loc>https://ritagonmar.github.io/de/contact/</loc>
+        <lastmod>2026-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ritagonmar.github.io/de/contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ritagonmar.github.io/contact/"/>
+    </url>
+    <url>
+        <loc>https://ritagonmar.github.io/de/cv/</loc>
+        <lastmod>2026-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ritagonmar.github.io/de/cv/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ritagonmar.github.io/cv/"/>
+    </url>
+    <url>
+        <loc>https://ritagonmar.github.io/de/</loc>
+        <lastmod>2026-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ritagonmar.github.io/de/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ritagonmar.github.io/"/>
+    </url>
+    <url>
+        <loc>https://ritagonmar.github.io/de/projects/</loc>
+        <lastmod>2026-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ritagonmar.github.io/de/projects/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ritagonmar.github.io/projects/"/>
+    </url>
+    <url>
+        <loc>https://ritagonmar.github.io/de/publications/</loc>
+        <lastmod>2026-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://ritagonmar.github.io/de/publications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ritagonmar.github.io/publications/"/>
+    </url>
+</urlset>
